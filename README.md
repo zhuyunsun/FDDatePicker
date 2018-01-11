@@ -14,5 +14,22 @@ setting default message
     datePicker.keepDate = NO;//save date state last time;
     
 ``` 
+show 
+
+```  
+[datePicker showPickerView];
+
+```  
+delegate
+```  
+-(void)selectDate:(NSString *)dateString{
+    NSLog(@"selestdate=%@",dateString);
+    _selectDateLabel.text = dateString;
+}
+-(void)cancleAction{
+    NSLog(@"cancle");
+}
+
+```  
 ### If you find bugs,please contact me.  
 gzzhuyunsun@163.com
