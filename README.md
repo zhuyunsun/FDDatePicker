@@ -2,7 +2,7 @@
 ### A coustom date with year-month-day
 ![image](http://oodrfzkav.bkt.clouddn.com/date/date-show.gif) 
 ### How to use
-setting default date  
+setting default message  
 ``` 
     datePicker = [[FDDatePicker alloc]init];
     datePicker.delegate = self;//select date delegate
@@ -14,4 +14,4 @@ setting default date
     datePicker.keepDate = NO;//save date state last time;
     
 ``` 
-
+### if you find bug,please contact me.
