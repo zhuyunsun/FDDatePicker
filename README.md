@@ -14,5 +14,5 @@ setting default message
     datePicker.keepDate = NO;//save date state last time;
     
 ``` 
-### if you find bug,please contact me.  
+### If you find bugs,please contact me.  
 gzzhuyunsun@163.com
