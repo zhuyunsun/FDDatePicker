@@ -31,5 +31,5 @@ delegate
 }
 
 ```  
-### If you find bugs,please contact me.  
+### If you find any bugs,please contact me.  
 gzzhuyunsun@163.com
