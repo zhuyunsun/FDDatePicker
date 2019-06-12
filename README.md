@@ -1,6 +1,6 @@
 # FDDate
 ### A coustom date with year-month-day
-![image](https://20190422zy.oss-cn-shenzhen.aliyuncs.com/2019-4-24-01/date-show.gif?Expires=1556092285&OSSAccessKeyId=TMP.AgGcYoxX6jm8u_pJ0e7SVkKfHrZ5fgBIW9rAKBzIir6OKmxyoHPyH3eD2yMSADAtAhUAqpCFX8h4cYcB8X8pGXGna9INF-4CFFyUWu051zkAytuPbWl5oj2fPVkz&Signature=KCu%2BZhcnZCNYhZ3By1FCR9OXaQg%3D) 
+![image](https://20190422zy.oss-cn-shenzhen.aliyuncs.com/2019-4-24-01/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%A5%E6%9C%9F%E9%80%89%E6%8B%A9%E5%99%A8/date-show.gif) 
 ### How to use
 setting default message  
 ``` 
